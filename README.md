@@ -1,2 +1,3 @@
-# is-tempo-comunicacao-exemplo
-Exemplo simples usando a aplicação conmtrace e a biblioteca is-wire para medir o tempo de comunicação entre serviços no espaço inteligente (PIS) do IFES Campus Guarapari.
+# Exemplo de medição do Tempo de Comunicação
+
+Esse repositório tem o intuito de exemplificar o uso da aplicação is-commtrace (https://github.com/labviros/is-commtrace-exporter) e a biblioteca is-wire (https://github.com/labvisio/is-wire-py).
